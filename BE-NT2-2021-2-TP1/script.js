@@ -25,7 +25,6 @@ const classNames = {
     // totalTareasPendientes
 
 
-
     renderizarContadores()
   }
 
@@ -54,7 +53,6 @@ const classNames = {
     console.log(li)
 
     return li
-
   }
 
   function renderizarContadores(){
